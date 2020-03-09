@@ -2,7 +2,7 @@ import os
 import csv
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-csvpath = os.path.join(dir_path,"03-Python_homework_assignment_PyBank_Resources_budget_data.csv")
+csvpath = os.path.join(dir_path,"Budget_Data.csv")
 
 output_file=os.path.join(dir_path,"Final_PyBank.txt")
 

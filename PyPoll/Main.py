@@ -2,7 +2,7 @@ import csv
 import os
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-csvpath = os.path.join(dir_path,"03-Python_homework_assignment_PyPoll_Resources_election_data.csv")
+csvpath = os.path.join(dir_path,"Election_Data.csv")
 
 output_file=os.path.join(dir_path,"Final_PyPoll.txt")
 
